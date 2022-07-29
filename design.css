@@ -1,0 +1,102 @@
+.header-class {
+  color: white;
+}
+
+.section-class {
+  display: flex;
+  background-color: #1c282f;
+  padding: 2px 60px;
+}
+
+.navigations-items {
+  list-style: none;
+  display: flex;
+}
+
+.navs {
+  padding: 10px;
+}
+
+.icon-class {
+  list-style: none;
+  display: flex;
+  
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+.colum-1 {
+  background-color: #223139;
+  color: white;
+}
+
+.home-navs {
+  list-style: none;
+  display: flex;
+}
+
+.heading-navs {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 60px;
+}
+
+.contact-button {
+  background-color: #f0926e;
+  border: none;
+  height: 36px;
+  width: 130px;
+  color: white;
+  margin: 18px 0px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.contact-button:hover{
+  background-color: blue;
+}
+
+.navigations-app {
+  margin: 10px;
+}
+
+.section-2 {
+  background-image: url(images/dev.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  color: white;
+}
+
+.colum-2 {
+  padding: 250px 155px;
+}
+
+.law-office {
+  padding-bottom: 20px;
+  color: rgb(235, 125, 62);
+  font-family: 'Poppins', sans-serif;
+}
+
+.deeper-class {
+  padding-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.getin-button {
+  background-color: #ee9473;
+  border: none;
+  height: 36px;
+  width: 155px;
+  color: white;
+}
+
